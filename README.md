@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Hassan BENYDIR and I'm a software engineering </h2>
+<h2 align="left">Hi 👋! I am Hassan BENYDIR and I'm a software engineering student </h2>
 
 ###
 
